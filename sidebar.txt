@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vnk:home|Door43 (vnk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vnk|d43-vnk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vnk/archive/master.zip|d43-vnk.zip]]
+
+**Recent Changes**
+{{changes>ns = vnk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vnk|Ethnologue data]]
+
